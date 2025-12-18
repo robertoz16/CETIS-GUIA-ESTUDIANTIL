@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="boton_verde">#4CAF50</color>
+    <color name="boton_azul">#2196F3</color>
+    <color name="boton_amarillo">#FFEB3B</color>
+    <color name="boton_rosa">#E91E63</color>
+</resources>

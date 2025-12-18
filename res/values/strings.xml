@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Nuevos_en_CETIS</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="title_activity_menu_principal">MenuPrincipal</string>
+    <string name="title_activity_enlaces">Enlaces</string>
+    <string name="title_activity_especialidades">Especialidades</string>
+    <string name="title_activity_programacion">Programacion</string>
+    <string name="title_activity_diseno">Diseno</string>
+    <string name="title_activity_medios">Medios</string>
+    <string name="title_activity_cosmetologia">Cosmetologia</string>
+    <string name="title_activity_paginas">Paginas</string>
+    <string name="title_activity_edificio">EdificioA</string>
+    <string name="title_activity_edificio_b">EdificioB</string>
+    <string name="title_activity_edificio_c">EdificioC</string>
+    <string name="title_activity_distraccion">Distraccion</string>
+    <string name="title_activity_principal">Principal</string>
+    <string name="title_activity_registro">Registro</string>
+    <string name="title_activity_encargados">Encargados</string>
+
+</resources>

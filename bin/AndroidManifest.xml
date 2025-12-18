@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.example.nuevos_en_cetis"
+    android:versionCode="1"
+    android:versionName="1.0" >
+
+    <uses-sdk
+        android:minSdkVersion="8"
+        android:targetSdkVersion="17" />
+
+    <application
+        android:allowBackup="true"
+        android:icon="@drawable/ic_launcher"
+        android:label="@string/app_name"
+        android:theme="@style/AppTheme" >
+        <activity
+            android:name="com.example.nuevos_en_cetis.MainActivity"
+            android:label="@string/app_name" >
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name="com.example.nuevos_en_cetis.MenuPrincipal"
+            android:label="@string/title_activity_menu_principal" >
+        </activity>
+        <activity
+            android:name="com.example.nuevos_en_cetis.Enlaces"
+            android:label="@string/title_activity_enlaces" >
+        </activity>
+        <activity
+            android:name="com.example.nuevos_en_cetis.Especialidades"
+            android:label="@string/title_activity_especialidades" >
+        </activity>
+        <activity
+            android:name="com.example.nuevos_en_cetis.Programacion"
+            android:label="@string/title_activity_programacion" >
+        </activity>
+        <activity
+            android:name="com.example.nuevos_en_cetis.Diseno"
+            android:label="@string/title_activity_diseno" >
+        </activity>
+        <activity
+            android:name="com.example.nuevos_en_cetis.Medios"
+            android:label="@string/title_activity_medios" >
+        </activity>
+        <activity
+            android:name="com.example.nuevos_en_cetis.Cosmetologia"
+            android:label="@string/title_activity_cosmetologia" >
+        </activity>
+        <activity
+            android:name="com.example.nuevos_en_cetis.Paginas"
+            android:label="@string/title_activity_paginas" >
+        </activity>
+        <activity
+            android:name="com.example.nuevos_en_cetis.EdificioA"
+            android:label="@string/title_activity_edificio" >
+        </activity>
+        <activity
+            android:name="com.example.nuevos_en_cetis.EdificioB"
+            android:label="@string/title_activity_edificio_b" >
+        </activity>
+        <activity
+            android:name="com.example.nuevos_en_cetis.EdificioC"
+            android:label="@string/title_activity_edificio_c" >
+        </activity>
+        <activity
+            android:name="com.example.nuevos_en_cetis.Distraccion"
+            android:label="@string/title_activity_distraccion" >
+        </activity>
+        <activity
+            android:name="com.example.nuevos_en_cetis.Principal"
+            android:label="@string/title_activity_principal" >
+        </activity>
+        <activity
+            android:name="com.example.nuevos_en_cetis.Registro"
+            android:label="@string/title_activity_registro" >
+        </activity>
+        <activity
+            android:name="com.example.nuevos_en_cetis.Encargados"
+            android:label="@string/title_activity_encargados" >
+        </activity>
+    </application>
+
+</manifest>
